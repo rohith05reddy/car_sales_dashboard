@@ -1,6 +1,6 @@
 ## README: Car Sales Dashboard
 
-![Dashboard](dash board.png)
+![Dashboard](dashboard.png)
 
 ### Overview
 
