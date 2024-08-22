@@ -1,6 +1,6 @@
 ## README: Car Sales Dashboard
 
-![Image Description](path/to/your/image.jpg)
+![Dashboard](dash board.png)
 
 ### Overview
 
@@ -31,8 +31,9 @@ This dashboard provides a comprehensive overview of car sales data, offering ins
 * **Dashboard Customization:** Consider customizing the dashboard to meet specific needs or preferences.
 
 ### Contact Information
+* **Mail:** rohith05reddy@gmail.com
+* **Linkedin:** https://www.linkedin.com/in/rohith-reddy-4b2340300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-[Insert contact information for the dashboard creator or maintainer]
 
 **Additional Tips:**
 
