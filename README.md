@@ -8,10 +8,17 @@ This dashboard provides a comprehensive overview of car sales data, offering ins
 
 ### Key Features
 
-* **Brand-wise Sales Analysis:** Compares sales performance across different car brands.
-* **Monthly Sales Trends:** Tracks sales fluctuations over time.
-* **Yearly Sales Comparison:** Evaluates sales patterns year-on-year.
-* **Regional Sales Distribution:** Analyzes sales distribution across different regions.
+* **Brand-wise kilometers driven Analysis:** Compares avg kilometers driven across different car brands on the basis of:
+ * 1->no of owners
+ * 2->gear transmission
+* **Yearly Sales Comparison:** Evaluates sales comparisions year-on-year on the basis of gear transmission.
+
+### insights
+* maruthi,hyundai,mahindra and tata are the most common brands
+* mahindra,toyota and tata brands have give more travel life irrespective of no of owners
+*  most of the engines froom (1300cc to 2900cc) have given an avg of 10000 km distance of life
+*  manual transmission vehicles have more efficient distance life than automatic transmission
+*  manual transmission vechicle's average selling price is almost steady with slight increase where as automatic transmission vehicles average selling price has great incerease from  5,00,000 to 30,00,000 making manual transmission vechicles more cost effective
 
 ### Usage Instructions
 
@@ -38,7 +45,6 @@ final_dashboard.xlsx
 **Additional Tips:**
 
 * **Leverage Filters:** Use filters to focus on specific brands, time periods, or regions.
-* **Compare Metrics:** Compare different metrics (e.g., sales vs. revenue) to gain deeper insights.
 * **Explore Trends:** Identify trends and patterns in the data to make informed decisions.
 
 By effectively utilizing this dashboard, you can gain valuable insights into car sales trends, performance, and market dynamics.
